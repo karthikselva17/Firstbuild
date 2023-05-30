@@ -4,7 +4,7 @@
 
 <h1>Success</h1>
 
-<?php echo "The Best PHP Examples"; ?>
+<?php echo "First Build"; ?>
 
 </body>
 </html> 
